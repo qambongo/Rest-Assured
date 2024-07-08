@@ -5,7 +5,6 @@ import java.util.Map;
 
 import static io.restassured.RestAssured.given;
 import static io.restassured.RestAssured.when;
-import static java.lang.Math.log;
 
 public class HttpMethods {
     String BASE_URL = "http://localhost:8090/api";
