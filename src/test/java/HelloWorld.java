@@ -5,8 +5,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.Map;
-
-import static groovy.json.JsonOutput.prettyPrint;
 import static org.hamcrest.Matchers.*;
 
 public class HelloWorld {
